@@ -51,7 +51,7 @@ Mobile Views
 ### Links
 
 - Solution URL: [Solution URL](https://github.com/TravisH-bot/newsletter-sign-up-with-success-message-main)
-- Live Site URL: [Live site URL](https://your-live-site-url.com)
+- Live Site URL: [Live site URL](https://travish-bot.github.io/newsletter-sign-up-with-success-message-main/)
 
 ## My process
 
