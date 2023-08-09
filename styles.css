@@ -226,6 +226,11 @@ input {
   border-top: 0.2rem solid var(--dark-slate-grey);
 }
 
+.attribution {
+  margin-top: 3rem;
+  color: var(--white);
+}
+
 /* =========================== Media Queries =========================== */
 @media screen and (max-width: 768px) {
   /* =========================== Signup Container =========================== */
@@ -275,5 +280,10 @@ input {
   .success-container .dismiss {
     width: 20.438rem;
     height: 3.5rem;
+  }
+
+  .attribution {
+    margin-top: 3rem;
+    color: var(--dark-slate-grey);
   }
 }
